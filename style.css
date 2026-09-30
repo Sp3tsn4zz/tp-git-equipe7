@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+h2 {
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+.devise {
+    font-style: italic;
+    color: darkred;
+}
